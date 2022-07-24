@@ -1,7 +1,7 @@
 {
 	"name": "@roti/transcript",
 	"version": "1.0.0",
-	"packageManager": "yarn@3.2.1",
+	"packageManager": "yarn@3.2.2",
 	"type": "module",
 	"scripts": {
 		"format": "prettier --write --cache transcript.css"
