@@ -8,9 +8,7 @@
 	},
 	"dependencies": {
 		"@imranbarbhuiya/duration": "^5.1.2",
-		"@sapphire/prettier-config": "^1.4.3",
 		"colorette": "^2.0.19",
 		"prettier": "^2.7.1"
-	},
-	"prettier": "@sapphire/prettier-config"
+	}
 }
