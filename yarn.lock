@@ -5,10 +5,10 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"@imranbarbhuiya/duration@npm:^5.1.7":
-  version: 5.1.7
-  resolution: "@imranbarbhuiya/duration@npm:5.1.7"
-  checksum: 692171f46fad8e2920e98df65f5e0eff65a62e7783d123393ff557bc3cb129d59e126c8db4c46bf2d5a66ef523da890688c2ae5a0799c04e245e1b0e81ff2f16
+"@imranbarbhuiya/duration@npm:^5.1.8":
+  version: 5.1.8
+  resolution: "@imranbarbhuiya/duration@npm:5.1.8"
+  checksum: 84860e4b674b6103e0079e8da1a3552df6d29bd19759206db483c9b0276c32b810bcb1dc7b17a81fede5493e2a70ebd7259f743ad7c7a01a6db19f810a027030
   languageName: node
   linkType: hard
 
@@ -16,7 +16,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@roti/transcript@workspace:."
   dependencies:
-    "@imranbarbhuiya/duration": ^5.1.7
+    "@imranbarbhuiya/duration": ^5.1.8
     colorette: ^2.0.20
     prettier: ^2.8.8
   languageName: unknown
