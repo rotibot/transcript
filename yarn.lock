@@ -2,13 +2,13 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 6
-  cacheKey: 8
+  version: 8
+  cacheKey: 10
 
 "@imranbarbhuiya/duration@npm:^5.1.8":
   version: 5.1.8
   resolution: "@imranbarbhuiya/duration@npm:5.1.8"
-  checksum: 84860e4b674b6103e0079e8da1a3552df6d29bd19759206db483c9b0276c32b810bcb1dc7b17a81fede5493e2a70ebd7259f743ad7c7a01a6db19f810a027030
+  checksum: 8/84860e4b674b6103e0079e8da1a3552df6d29bd19759206db483c9b0276c32b810bcb1dc7b17a81fede5493e2a70ebd7259f743ad7c7a01a6db19f810a027030
   languageName: node
   linkType: hard
 
@@ -16,16 +16,16 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@roti/transcript@workspace:."
   dependencies:
-    "@imranbarbhuiya/duration": ^5.1.8
-    colorette: ^2.0.20
-    prettier: ^3.1.1
+    "@imranbarbhuiya/duration": "npm:^5.1.8"
+    colorette: "npm:^2.0.20"
+    prettier: "npm:^3.1.1"
   languageName: unknown
   linkType: soft
 
 "colorette@npm:^2.0.20":
   version: 2.0.20
   resolution: "colorette@npm:2.0.20"
-  checksum: 0c016fea2b91b733eb9f4bcdb580018f52c0bc0979443dad930e5037a968237ac53d9beb98e218d2e9235834f8eebce7f8e080422d6194e957454255bde71d3d
+  checksum: 8/0c016fea2b91b733eb9f4bcdb580018f52c0bc0979443dad930e5037a968237ac53d9beb98e218d2e9235834f8eebce7f8e080422d6194e957454255bde71d3d
   languageName: node
   linkType: hard
 
@@ -34,6 +34,6 @@ __metadata:
   resolution: "prettier@npm:3.1.1"
   bin:
     prettier: bin/prettier.cjs
-  checksum: e386855e3a1af86a748e16953f168be555ce66d6233f4ba54eb6449b88eb0c6b2ca79441b11eae6d28a7f9a5c96440ce50864b9d5f6356d331d39d6bb66c648e
+  checksum: 8/e386855e3a1af86a748e16953f168be555ce66d6233f4ba54eb6449b88eb0c6b2ca79441b11eae6d28a7f9a5c96440ce50864b9d5f6356d331d39d6bb66c648e
   languageName: node
   linkType: hard
