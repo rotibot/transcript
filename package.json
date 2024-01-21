@@ -9,6 +9,6 @@
 	"dependencies": {
 		"@imranbarbhuiya/duration": "^5.1.8",
 		"colorette": "^2.0.20",
-		"prettier": "^3.2.2"
+		"prettier": "^3.2.4"
 	}
 }
