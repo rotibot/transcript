@@ -8,7 +8,7 @@ __metadata:
 "@imranbarbhuiya/duration@npm:^5.1.8":
   version: 5.1.8
   resolution: "@imranbarbhuiya/duration@npm:5.1.8"
-  checksum: 8/84860e4b674b6103e0079e8da1a3552df6d29bd19759206db483c9b0276c32b810bcb1dc7b17a81fede5493e2a70ebd7259f743ad7c7a01a6db19f810a027030
+  checksum: 9b22c7a6f5b6477b8521a01b8229bd2f5fe1ef45b3e05909a0743409abe8a84e80b135bcc8b7c4c601b35c904b16123e0f30a4c7269092a660dd4d6c0db57f9a
   languageName: node
   linkType: hard
 
@@ -25,7 +25,7 @@ __metadata:
 "colorette@npm:^2.0.20":
   version: 2.0.20
   resolution: "colorette@npm:2.0.20"
-  checksum: 8/0c016fea2b91b733eb9f4bcdb580018f52c0bc0979443dad930e5037a968237ac53d9beb98e218d2e9235834f8eebce7f8e080422d6194e957454255bde71d3d
+  checksum: e94116ff33b0ff56f3b83b9ace895e5bf87c2a7a47b3401b8c3f3226e050d5ef76cf4072fb3325f9dc24d1698f9b730baf4e05eeaf861d74a1883073f4c98a40
   languageName: node
   linkType: hard
 
