@@ -20,7 +20,7 @@ jobs:
       - name: Install Dependencies
         run: yarn --immutable
       - name: Run updater
-        run: true || node --experimental-json-modules scripts/update-css.mjs
+        run: node --experimental-json-modules scripts/update-css.mjs
       - name: Run prettier on the code
         run: yarn format
       - name: Commit any changes and create a pull request
