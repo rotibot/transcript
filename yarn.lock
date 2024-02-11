@@ -8,7 +8,7 @@ __metadata:
 "@imranbarbhuiya/duration@npm:^5.1.8":
   version: 5.1.8
   resolution: "@imranbarbhuiya/duration@npm:5.1.8"
-  checksum: 9b22c7a6f5b6477b8521a01b8229bd2f5fe1ef45b3e05909a0743409abe8a84e80b135bcc8b7c4c601b35c904b16123e0f30a4c7269092a660dd4d6c0db57f9a
+  checksum: 10c0/9b22c7a6f5b6477b8521a01b8229bd2f5fe1ef45b3e05909a0743409abe8a84e80b135bcc8b7c4c601b35c904b16123e0f30a4c7269092a660dd4d6c0db57f9a
   languageName: node
   linkType: hard
 
@@ -18,22 +18,22 @@ __metadata:
   dependencies:
     "@imranbarbhuiya/duration": "npm:^5.1.8"
     colorette: "npm:^2.0.20"
-    prettier: "npm:^3.2.4"
+    prettier: "npm:^3.2.5"
   languageName: unknown
   linkType: soft
 
 "colorette@npm:^2.0.20":
   version: 2.0.20
   resolution: "colorette@npm:2.0.20"
-  checksum: e94116ff33b0ff56f3b83b9ace895e5bf87c2a7a47b3401b8c3f3226e050d5ef76cf4072fb3325f9dc24d1698f9b730baf4e05eeaf861d74a1883073f4c98a40
+  checksum: 10c0/e94116ff33b0ff56f3b83b9ace895e5bf87c2a7a47b3401b8c3f3226e050d5ef76cf4072fb3325f9dc24d1698f9b730baf4e05eeaf861d74a1883073f4c98a40
   languageName: node
   linkType: hard
 
-"prettier@npm:^3.2.4":
-  version: 3.2.4
-  resolution: "prettier@npm:3.2.4"
+"prettier@npm:^3.2.5":
+  version: 3.2.5
+  resolution: "prettier@npm:3.2.5"
   bin:
     prettier: bin/prettier.cjs
-  checksum: 88dfeb78ac6096522c9a5b81f1413d875f568420d9bb6a5e5103527912519b993f2bcdcac311fcff5718d5869671d44e4f85827d3626f3a6ce32b9abc65d88e0
+  checksum: 10c0/ea327f37a7d46f2324a34ad35292af2ad4c4c3c3355da07313339d7e554320f66f65f91e856add8530157a733c6c4a897dc41b577056be5c24c40f739f5ee8c6
   languageName: node
   linkType: hard
